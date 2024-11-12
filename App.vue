@@ -11,6 +11,8 @@
 			console.log('App Hide')
 		}
 	}
+	console.log(123);
+	
 </script>
 
 <style lang="scss">
