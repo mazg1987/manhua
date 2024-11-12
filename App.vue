@@ -16,6 +16,7 @@
 =======
 	console.log(213);
 >>>>>>> 0112556bc5aeb76ea5a2802e84562f72f5b6ed7c
+	console.log(哈哈哈);
 	
 </script>
 
