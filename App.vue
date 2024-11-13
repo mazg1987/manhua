@@ -13,6 +13,7 @@
 	}
 	console.log(123);
 	console.log(哈哈哈);
+	console.log(34555);
 	
 </script>
 
